@@ -1,0 +1,1 @@
+# virtue-skill-project-template
